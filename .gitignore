@@ -1,0 +1,8 @@
+*.db
+*.sqlite
+*.sqlite3
+.vscode/
+__pycache__/
+
+# sample.dbだけは例外的にGitHubに含める
+!sample.db
